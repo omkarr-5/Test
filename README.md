@@ -1,21 +1,71 @@
 # Hotel Booking Data Analysis
 
-## Overview
+## 📌 Overview
 
-This project analyzes hotel booking data to identify trends, patterns, and insights such as cancellations, booking behavior, and customer preferences.
+This project analyzes hotel booking data to uncover patterns in customer behavior, cancellations, and booking trends. The goal is to derive actionable insights that can help hotels improve revenue and reduce cancellations.
 
-## Tools Used
+---
+
+## 📊 Dataset
+
+* Source: Hotel Booking Demand Dataset
+* Contains information about bookings, cancellations, customer details, and stay duration
+
+---
+
+## 🛠️ Tools & Technologies
 
 * Python
 * Pandas
-* Matplotlib / Seaborn
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
-## Key Insights
+---
 
-* Booking trends over time
-* Cancellation patterns
-* Customer segmentation
+## 🔍 Key Analysis Performed
 
-## Goal
+* Data cleaning and preprocessing
+* Handling missing values
+* Exploratory Data Analysis (EDA)
+* Visualization of trends and patterns
 
-To extract meaningful insights from raw data and improve data analysis skills.
+---
+
+## 📈 Key Insights
+
+* High cancellation rates observed in certain booking types
+* Seasonal trends impact booking frequency
+* Repeat customers show lower cancellation rates
+* Lead time strongly influences cancellations
+
+---
+
+## 🎯 Business Impact
+
+* Helps hotels reduce cancellation losses
+* Improves customer targeting strategies
+* Supports better pricing and demand forecasting
+
+---
+
+## 📂 Project Structure
+
+* `Data Analysis (Hotel Bookings).ipynb` → Main analysis notebook
+* `Hotel_Booking_Analysis_Report.pdf` → Detailed report
+* `README.md` → Project documentation
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open the notebook in Jupyter
+3. Run all cells
+
+---
+
+
+## 👨‍💻 Author
+
+Omkar
