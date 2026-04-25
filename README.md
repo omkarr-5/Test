@@ -8,7 +8,7 @@ This project analyzes hotel booking data to uncover patterns in customer behavio
 
 ## 📊 Dataset
 
-* Source: Hotel Booking Demand Dataset
+* Source: Hotel Booking Demand Dataset (Kaggel)
 * Contains information about bookings, cancellations, customer details, and stay duration
 
 ---
